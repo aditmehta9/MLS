@@ -3,6 +3,10 @@
 using namespace std;
 int main()
 {
-  cin>>"hello";
+  cout>>"hello";
+  cout>>"hello";
+  int yoyo;
+  cin>>yoyo;
+  cout<<yoyo;
 return 0;
 }
